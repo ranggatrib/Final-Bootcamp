@@ -3,6 +3,9 @@
 ## 📄 Resume Bootcamp
 https://seen-guava-b40.notion.site/Resume-22e593e4804c8097b072c2c70156a281?pvs=141
 
+## 📄 Portofolio
+https://portofolio-ranggatrib.vercel.app/
+
 ## 🧪 Final Project
 
 ### 🔧 **Project 1: Building an API Service**
