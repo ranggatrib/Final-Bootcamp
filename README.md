@@ -90,4 +90,4 @@ Authorization: Bearer <your_token>
 - Ngrok: jika menggunakan WSL / lokal dan ingin expose ke publik
 
 ## ♻️ PM2 Status
-![PM2 Status](https://raw.githubusercontent.com/ranggatrib/Final-Bootcamp/main/api-final-project-bootcamp-unp-main/pm2.png)
+![PM2 Status](api-final-project-bootcamp-unp-main/pm2.png)
